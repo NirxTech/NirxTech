@@ -11,7 +11,7 @@ With a deep passion for **programming** and **AI-driven technologies**. I specia
 - 🌱 Always expanding my knowledge and contributing to open-source communities.
 - 🚀 func fact about me *i'm a music enthusiast*.
 - 💬 Ask me about *my goals*.
-- 📫 How to reach me : merosyaputri@gmail.com
+- 📫 How to reach me : zahranmuhammad267@gmail.com
 
   [![Instagram Badge](https://img.shields.io/badge/-@_aseptampan-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://www.instagram.com/_aseptampan?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)](https://www.instagram.com/_aseptampan_)
 [![Gmail Badge](https://img.shields.io/badge/-zahranmuhammad267@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvjainpenny@gmail.com)](mailto:dhruvjainpenny@gmail.com)
