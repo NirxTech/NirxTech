@@ -1,6 +1,8 @@
 # Hi there, I'm Muhammad Zahran! 👋
 
-With a deep passion for **Cloud Computing** and **Networking**, I specialize in designing scalable and reliable infrastructure solutions. I'm also exploring **AI-driven technologies** to solve complex challenges.
+With a strong passion for **Programming**, **Networking**, and **Cloud Infrastructure**, I focus on building high-performance and minimalist solutions. I strive to optimize every project to be lightweight and efficient, ensuring only the essentials are included. Always eager to learn, I continuously explore new technologies to enhance my skills and problem-solving capabilities.
+
+I am a beginner programmer with a strong curiosity for technology, always eager to learn and explore various fields, especially **Programming**, **Networking**, **Cloud Infrastructure**, and **Development**. I focus on building high-performance, lightweight, and minimalist solutions, ensuring only the essentials are included. Additionally, I constantly seek ways to optimize every aspect of what I create, enhancing both efficiency and practicality. With a passion for continuous learning, I strive to refine my skills and explore new technologies to solve real-world challenges.
 
 ## 🔥 About Me
 - 🌱 Currently focusing on **Cloud Computing** & **Networking**.
@@ -25,6 +27,12 @@ With a deep passion for **Cloud Computing** and **Networking**, I specialize in 
 
 ## 📊 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NirxTech&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=ittihadi&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ittihadi&theme=catppuccin_mocha&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ittihadi&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 📊 Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ittihadi&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
 
 ## 📫 Connect with Me
 [![Instagram](https://img.shields.io/badge/-Instagram-F44747?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_aseptampan/)
