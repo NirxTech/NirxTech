@@ -24,7 +24,7 @@ With a deep passion for **Cloud Computing** and **Networking**, I specialize in 
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
 ## 📊 GitHub Stats
-![Zahran's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Zahran's GitHub stats](https://github-readme-stats.vercel.app/api?username=NirxTech&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 [![Instagram](https://img.shields.io/badge/-Instagram-F44747?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_aseptampan/)
