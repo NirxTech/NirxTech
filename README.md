@@ -33,3 +33,4 @@ I am a beginner programmer with a strong curiosity for technology, always eager 
 ## 📫 Connect with Me
 [![Instagram](https://img.shields.io/badge/-Instagram-F44747?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_aseptampan/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:zahranmuhammad267@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zahran-ba530b316)
