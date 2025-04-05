@@ -1,10 +1,13 @@
-# Hi, I'm Muhammad Zahran 👋
+# Muhammad Zahran
 I am a beginner programmer with a strong curiosity for technology, always eager to learn and explore various fields, especially **Programming**, **Networking**, **Cloud Infrastructure**, and **Development**. I focus on building high-performance, lightweight, and minimalist solutions, ensuring only the essentials are included. Additionally, I constantly seek ways to optimize every aspect of what I create, enhancing both efficiency and practicality. With a passion for continuous learning, I strive to refine my skills and explore new technologies to solve real-world challenges.
 
-## 🔥 About Me
-- 🌱 Currently focusing on **Programming**, **Networking**, **Cloud Infrastructure**, and **Development**.
-- 🚀 Fun fact: *I'm a music enthusiast.*
-- 💬 Ask me about *Networking, Cloud Computing, Programming, or Linux*.
+## Me
+- Currently focusing on **Programming**, **Networking**, **Cloud Infrastructure**, and **Development**.
+- Fun fact: *Playing games to chill and recharge
+- Writing when I need to let feelings out
+- Exploring new tech & tools
+- im a music enthusiast.*
+- Ask me about *Networking, Cloud Computing, Programming, or Linux*.
 
 ## 🚀 Tech Stack
 ### Programming Languages:
