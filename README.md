@@ -3,9 +3,9 @@ I am a beginner programmer with a strong curiosity for technology, always eager 
 
 ## Me
 - Currently focusing on **Programming**, **Networking**, **Cloud Infrastructure**, and **Development**.
-- Fun fact: *Playing games to chill and recharge
-- Writing when I need to let feelings out
-- Exploring new tech & tools
+- Fun fact:  *Playing games to chill and recharge
+              Writing when I need to let feelings out
+              Exploring new tech & tools
 - im a music enthusiast.*
 - Ask me about *Networking, Cloud Computing, Programming, or Linux*.
 
