@@ -1,6 +1,5 @@
 # Muhammad Zahran
-I am a beginner programmer with a strong curiosity for technology, always eager to learn and explore various fields, especially **Programming**, **Networking**, **Cloud Infrastructure**, and **Development**. I focus on building high-performance, lightweight, and minimalist solutions, ensuring only the essentials are included. Additionally, I constantly seek ways to optimize every aspect of what I create, enhancing both efficiency and practicality. With a passion for continuous learning, I strive to refine my skills and explore new technologies to solve real-world challenges.
-
+I am a beginner programmer with a strong curiosity for the world of technology, especially in **Programming**, **Cloud Infrastructure**, and **Application Development**. I focus on building solutions that are lightweight, fast, and minimalist only including what’s truly necessary. I continuously learn and grow to create efficient and impactful solutions.
 ## Me
 - Currently focusing on **Programming**, **Networking**, **Cloud Infrastructure**, and **Development**.
 - Fun fact:  *Playing games to chill and recharge
