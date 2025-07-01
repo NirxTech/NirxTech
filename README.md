@@ -2,10 +2,10 @@
 I am a beginner programmer with a strong curiosity for the world of technology, especially in **Programming**, **Cloud Infrastructure**, and **Application Development**. I focus on building solutions that are lightweight, fast, and minimalist only including what’s truly necessary. I continuously learn and grow to create efficient and impactful solutions.
 ## Me
 - Currently focusing on **Programming**, **Networking**, **Cloud Infrastructure**, and **Development**.
-- Fun fact:  *Playing games to chill and recharge
+- Fun fact:   Playing games to chill and recharge
               Writing when I need to let feelings out
               Exploring new tech & tools
-- im a music enthusiast.*
+- im a music enthusiast.
 - Ask me about *Networking, Cloud Computing, Programming, or Linux*.
 
 ## 🚀 Tech Stack
