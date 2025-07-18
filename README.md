@@ -8,7 +8,7 @@ I am a beginner programmer with a strong curiosity for the world of technology, 
 - im a music enthusiast.
 - Ask me about *Networking, Cloud Computing, Programming, or Linux*.
 
-## 🚀 Tech Stack
+## Tech Stack
 ### Programming Languages:
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -23,16 +23,16 @@ I am a beginner programmer with a strong curiosity for the world of technology, 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
-## 📊 GitHub Stats
+## GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NirxTech&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api?username=NirxTech&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NirxTech&theme=catppuccin_mocha&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NirxTech&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 📊 Contributed Repo
+## Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NirxTech&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
 
-## 📫 Connect with Me
+## Connect with Me
 [![Instagram](https://img.shields.io/badge/-Instagram-F44747?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_aseptampan/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:zahranmuhammad267@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zahran-ba530b316)
