@@ -1,7 +1,7 @@
 # Muhammad Zahran
-I am a beginner programmer with a strong curiosity for the world of technology, especially in **Programming**, **Cloud Infrastructure**, and **Application Development**. I focus on building solutions that are lightweight, fast, and minimalist only including what’s truly necessary. I continuously learn and grow to create efficient and impactful solutions.
+I am a beginner programmer with a strong curiosity for the world of technology, especially in Programming, Cloud Infrastructure, and Application Development. I focus on building solutions that are lightweight, fast, and minimalist only including what’s truly necessary. I continuously learn and grow to create efficient and impactful solutions. Currently, my main focus is on Artificial Intelligence and Web Development, where I explore building intelligent, user-centric systems that are both functional and efficient.
 ## Me
-- Currently focusing on **Programming**, **Networking**, **Cloud Infrastructure**, and **Development**.
+- Currently focusing on **Programming**, **Networking**, **Cloud Infrastructure**, **Artificial Intelligence** and **Development**.
 - Fun fact:   Playing games to chill and recharge
               Writing when I need to let feelings out
               Exploring new tech & tools
@@ -11,17 +11,21 @@ I am a beginner programmer with a strong curiosity for the world of technology, 
 ## Tech Stack
 ### Programming Languages:
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 ### Technologies & Tools:
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
 ## GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NirxTech&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
